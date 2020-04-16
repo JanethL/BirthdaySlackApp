@@ -24,8 +24,8 @@ const result = {googlesheets: {}, slack: {}};
             bounds: 'FIRST_EMPTY_ROW',
             where: [
                 {
-                    'Birthday Month': today_month,
-                    'Birthday Day': today_day
+                    'BirthdayMonth': today_month,
+                    'BirthdayDay': today_day
                 }
             ],
             limit: {
