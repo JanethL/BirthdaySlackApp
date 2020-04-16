@@ -1,0 +1,9 @@
+{
+  "name": "BirthdaySlackApp",
+  "author": "Janeth Ledezma <janeth@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "moment-timezone": "^0.5.28"
+  }
+}

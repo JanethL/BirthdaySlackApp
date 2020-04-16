@@ -1,0 +1,27 @@
+{
+  "name": "JanethL/BirthdaySlackApp",
+  "version": "0.0.0",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/scheduler/daily.js": {
+      "name": "scheduler.daily",
+      "subtype": {
+        "time": "08:00 (8:00am)",
+        "timezone": "America — Los Angeles/San Francisco, US (-08:00, -07:00 DST)"
+      }
+    },
+    "functions/events/slack/command/list.js": {
+      "name": "slack.command",
+      "subtype": {
+        "command": "list"
+      }
+    },
+    "functions/events/slack/command/add.js": {
+      "name": "slack.command",
+      "subtype": {
+        "command": "add"
+      }
+    }
+  }
+}
