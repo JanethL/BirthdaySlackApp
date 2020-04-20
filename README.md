@@ -193,7 +193,7 @@ Via Twitter: [@Sandard Library](https://twitter.com/StandardLibrary)
 
 Via E-mail: [support@stdlib.com](mailto:support@stdlib.com) 
 
-# Acknowledgments
+# Acknowledgements
 
 Thanks to the Standard Library team and community for all the support and to [Akanksha Kevalramani](http://itsakanksha.com/about.html) for leading a [workshop](https://www.meetup.com/Maker-dev-SD-Chapter/events/267430141/) that inspired this guide.
 
