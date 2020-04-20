@@ -32,7 +32,7 @@ For example `/cmd add Andrea Sanchez 12 07`
 1. [Installation](#installation)
 1. [Test Your Slack App](#test-your-workflow)
 1. [Changing the Time Interval](#change-the-time-interval)
-1. [Support](#support)
+1. [Shipping to Production](#shipping-to-production) 
 1. [Acknowledgements](#acknowledgements)
 
 ---
@@ -184,6 +184,7 @@ Link any necessary resources, specify the version of the release and click `Crea
 That's all you need to do!
 
 ---
+# Support
 Via Slack: [libdev.slack.com](https://libdev.slack.com/)
 
 You can request an invitation by clicking Community > Slack in the top bar on [https://stdlib.com](https://stdlib.com/) 
@@ -191,3 +192,11 @@ You can request an invitation by clicking Community > Slack in the top bar on [h
 Via Twitter: [@Sandard Library](https://twitter.com/StandardLibrary)
 
 Via E-mail: [support@stdlib.com](mailto:support@stdlib.com) 
+
+# Acknowledgments
+
+Thanks to the Standard Library team and community for all the support and to [Akanksha Kevalramani](http://itsakanksha.com/about.html) for leading a [workshop](https://www.meetup.com/Maker-dev-SD-Chapter/events/267430141/) that inspired this guide.
+
+Keep up to date with platform changes on our [Blog](https://stdlib.com/blog).
+
+Happy hacking!
