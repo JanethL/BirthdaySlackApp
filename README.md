@@ -25,10 +25,8 @@ For example `/cmd add Andrea Sanchez 12 07`
 <img src= "./images/2nd.png" width="400">
 
 ---
-
 # Table of Contents
 
-1. [How It Works](#how-it-works) 
 1. [Installation](#installation)
 1. [Test Your Slack App](#test-your-workflow)
 1. [Changing the Time Interval](#change-the-time-interval)
@@ -144,6 +142,7 @@ You should receive a confirmation message once you hit enter - the confirmat
 
 Congrats! Now that your app is live you can return to Autocode and change the channel that the Slack app posts messages to, change the message, change time, etc.
 
+---
 # Changing the Time Interval
 
 You will notice that the code is programmed to run at **8:00 am America - Los Angeles time**. To change the time your Slack app posts birthday messages double click on the `daily.js` file and select `Clone API Endpoint.`
@@ -168,7 +167,7 @@ Make sure to deploy your app again for the changes to take effect by selecting *
 
   <img src= "./images/30.png" width="400">
   
-  
+---  
 # Shipping to Production
 
 Standard Library has easy dev/prod environment management. If you want to ship to production, visit [build.stdlib.com](build.stdlib.com), find your project and select manage.
@@ -183,7 +182,6 @@ Link any necessary resources, specify the version of the release and click `Crea
 That's all you need to do!
 
 ---
-
 Via Slack: [libdev.slack.com](https://libdev.slack.com/)
 
 You can request an invitation by clicking Community > Slack in the top bar on [https://stdlib.com](https://stdlib.com/) 
