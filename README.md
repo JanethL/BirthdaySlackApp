@@ -2,7 +2,7 @@
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 ---
-# Slack App that Sends Automated Birthday Messages to Teammates
+# Slack App that Sends Automated Birthday Messages to a Channel
 
 <img src= "./images/Heading.png" width="400">
 
