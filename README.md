@@ -44,7 +44,7 @@ Copy this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1SKw97duf9
 Great! You're ready to install your Slack app.
 
 ---
-Click this deploy from Autocode button to quickly set up your project on Autocode.
+Click this deploy from Autocode button to quickly set up your project in Autocode.
 
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
