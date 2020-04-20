@@ -2,6 +2,8 @@
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 ---
+# Slack App that Sends Automated Birthday Messages to Teammates
+
 <img src= "./images/Heading.png" width="400">
 
 Teammate recognition can improve productivity and promote collaboration. An easy and often overlooked way to recognize teammates is by celebrating them on their birthday and letting them know that they are invaluable team members.
